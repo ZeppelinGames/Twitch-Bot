@@ -3,12 +3,12 @@
 
   "commands": {
     "ping" : "pong",
-    "hunt" : "{fromuser} BIGGEST DUMB",
+    "hey" : "hi {fromuser}",
     "bot" : "Tis me. Zep's bot"
   },
 
   "chats": {
   },
 
-  "banned-words": ["cunt","nigga","faggot"]
+  "banned-words": ["bad word","heck","frick"]
 }
