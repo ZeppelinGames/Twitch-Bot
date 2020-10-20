@@ -1,0 +1,14 @@
+{
+  "command-prefix": ">>",
+
+  "commands": {
+    "ping" : "pong",
+    "hunt" : "{fromuser} BIGGEST DUMB",
+    "bot" : "Tis me. Zep's bot"
+  },
+
+  "chats": {
+  },
+
+  "banned-words": ["cunt","nigga","faggot"]
+}
