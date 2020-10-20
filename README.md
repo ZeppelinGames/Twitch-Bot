@@ -1,5 +1,5 @@
 # Twitch Bot
- A simple GUI Twitch bot made in Python with IntelliJ
+ A simple GUI Twitch bot made in Python 3.8 with IntelliJ
 
 **How to use**
 **Connecting to your stream**
